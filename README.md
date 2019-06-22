@@ -7,6 +7,7 @@ gitmeme will show you a meme after each commit.
 ```bash
  $ git clone https://github.com/shalithasuranga/gitmeme.git
  $ cd gitmeme
+ $ npm i
  $ npm link
 ```
 Then go to your repo.
