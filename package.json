@@ -1,0 +1,17 @@
+{
+  "name": "gitmeme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitmeme": "src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global-modules-path": "^2.3.1"
+  }
+}

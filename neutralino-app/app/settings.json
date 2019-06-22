@@ -1,0 +1,9 @@
+{
+    "appname" : "gitmeme",
+    "appport" : "0",
+    "mode" : "window",
+    "window" : {
+        "width" : "600",
+        "height" : "500"
+    }
+}
