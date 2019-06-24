@@ -31,7 +31,7 @@ $(document).ready(function() {
 
 Neutralino.init({
     load: function() {
-        myapp.myfunction();
+        
     },
     pingSuccessCallback : function() {
 
