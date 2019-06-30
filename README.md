@@ -1,4 +1,4 @@
-v# gitmeme
+# gitmeme
 
 gitmeme will show you a meme after each commit.
 
