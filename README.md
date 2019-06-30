@@ -1,4 +1,4 @@
-# gitmeme
+v# gitmeme
 
 gitmeme will show you a meme after each commit.
 
@@ -32,3 +32,5 @@ Commit something..
 ```
 
 **Notice: gitmeme will erase and create ___post-commit___ hook file**
+
+[![GitHub license](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/shalithasuranga)
